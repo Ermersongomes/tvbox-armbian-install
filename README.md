@@ -16,7 +16,7 @@ Este repositório fornece um passo a passo detalhado de como instalar o Armbian 
 
 ## Ferramentas
 
-- **Multitool**: Ferramenta necessária para instalar o Armbian e descobrir o tipo de memória na TV Box. Você pode baixá-la [aqui](https://forum.armbian.com/topic/34923-csc-armbian-for-rk322x-tv-box-boards/).
+- **Multitool**: Ferramenta necessária para instalar o Armbian e descobrir o tipo de memória na TV Box. Você pode baixá-la direto desse repositorio ou [aqui](https://forum.armbian.com/topic/34923-csc-armbian-for-rk322x-tv-box-boards/).
 
 - **Balena Etcher**: Ferramenta para escrever imagens no cartão de memória. [Baixe o Balena Etcher para Windows aqui](https://www.balena.io/etcher/).
 
@@ -180,10 +180,10 @@ Pronto! Sua TV Box agora está configurada para rodar o Armbian e pode ser utili
 
      ###REFERÊNCIAS
    - **Instalando Linux em TV Box com RK322X! (Armbian no MXQ e outras box similares..)**
-  Canal: **VegaData*.  Você pode assistir ao vídeo [aqui](https://www.youtube.com/watch?v=R0zjwQG2iE4&t=640s).
+  Canal: **VegaData**.  Você pode assistir ao vídeo [aqui](https://www.youtube.com/watch?v=R0zjwQG2iE4&t=640s).
    - **ArmBian: Uma distro Linux p/o seu TV Box RK322X**
   Canal: **RB Games Linux**. Você pode assistir ao vídeo [aqui](https://www.youtube.com/watch?v=OMuoUVIoBBo&t=1436s).
-   - **CSC Armbian para placas de TV Box RK322X**. Você pode acessar o tópico completo no fórum [aqui](https://forum.armbian.com/topic/34923-csc-armbian-for-rk322x-tv-box-boards/).
+   - **CSC Armbian for RK322x TV box boards**. Você pode acessar o tópico completo no fórum [aqui](https://forum.armbian.com/topic/34923-csc-armbian-for-rk322x-tv-box-boards/).
 
 
 
