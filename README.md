@@ -32,9 +32,13 @@ Este repositório fornece um passo a passo detalhado de como instalar o Armbian 
 2. **Instalando o Balena Etcher**:
    - Baixe e instale o Balena Etcher.
    - Abra o Balena Etcher e clique em "Flash from file".
+     ![Captura de tela 2025-02-22 174310](https://github.com/user-attachments/assets/3cf49d39-7480-49c5-a9e0-dbd5868643f1)
    - Selecione a imagem do Multitool que você extraiu.
    - Clique em "Select target" e escolha o seu **micro SD**. Tenha certeza de que o cartão de memória está correto, pois o processo apagará todos os dados.
+     ![Captura de tela 2025-02-22 174330](https://github.com/user-attachments/assets/68b00a0e-f03f-4ccf-8285-83a7bbe7fded)
    - Clique em **Flash!**.
+    ![Captura de tela 2025-02-22 174359](https://github.com/user-attachments/assets/02f4e486-8492-44c9-857a-98273ab8fb9b)
+
 
 3. **Retire o Micro SD** do computador após a conclusão do processo.
 
@@ -45,6 +49,7 @@ Este repositório fornece um passo a passo detalhado de como instalar o Armbian 
    
 2. **Aceitação dos Termos**:
    - Quando a tela de aceitação aparecer, leia os termos e pressione **Enter**.
+     ![Captura de tela 2025-02-22 174552](https://github.com/user-attachments/assets/5dd60515-c4b1-44ab-b0a3-744697a30e1f)
 
 3. **Detecção da Memória NAND**:
    - Uma mensagem de alerta aparecerá informando que a memória do dispositivo é do tipo **NAND**. Pressione **Enter** para continuar.
