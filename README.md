@@ -84,6 +84,7 @@ Este repositório fornece um passo a passo detalhado de como instalar o Armbian 
    - Ligue a TV Box e aguarde inicializar.
    - No menu do Multitool, selecione **"Install Armbian via step-nand"** e pressione **Enter**. Depois, pressione **Enter** para todas as opções que aparecerem.
    - Aguarde até que o Multitool exiba a mensagem **"Scanning the source image file..."**. Isso indicará que a instalação do Armbian está em andamento.
+     
      ![Captura de tela 2025-02-22 181448](https://github.com/user-attachments/assets/15a14d42-08d7-48f7-8665-ade3a714e24c)
    - Aguarde até que a instalação do Armbian seja realizada
 ![Captura de tela 2025-02-22 114621](https://github.com/user-attachments/assets/a9cc4ae2-f083-4c1f-bddd-6af4f00f28ad)
@@ -127,7 +128,7 @@ Este repositório fornece um passo a passo detalhado de como instalar o Armbian 
 
 ---
 
-### Parte 5: Configuração do Wi-Fi (Opcional)
+### Parte 5: Configuração do Wi-Fi
 
 1. **Acessando o Terminal**:
    - No Armbian, acesse o **Emulador de Terminal** (aplicações > terminal).
@@ -168,17 +169,19 @@ Pronto! Sua TV Box agora está configurada para rodar o Armbian e pode ser utili
 ---
 **Recomendação**
    - Após a reinicialização recomendo que entre no terminal e digite esses comando:
-    - Após concluir as configurações, no terminal, digite:
+
      ```bash
      sudo apt update
      ```
+     
      - Após isso, digite:
      ```bash
      sudo apt upgrade
      ```
    - isso ira atualizar o Armbian.
 
-     ###REFERÊNCIAS
+     ## REFERÊNCIAS
+     
    - **Instalando Linux em TV Box com RK322X! (Armbian no MXQ e outras box similares..)**
   Canal: **VegaData**.  Você pode assistir ao vídeo [aqui](https://www.youtube.com/watch?v=R0zjwQG2iE4&t=640s).
    - **ArmBian: Uma distro Linux p/o seu TV Box RK322X**
