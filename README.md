@@ -5,9 +5,9 @@ Este repositório fornece um passo a passo detalhado de como instalar o Armbian 
 
 ## Requisitos
 
-- **Micro SD**: mínimo 8GB
+- **Cartão microSD com adaptador**: mínimo 8GB
 - **TV Box MXQ Pro 5G 4K** com chip RK3229
-- **Cabo de Rede** (Recomendado, opcional)
+- **Cabo de Rede** (Recomendado)
 - **Memória NAND** na TV Box
 - **Teclado e Mouse USB**
 - A TV Box só é bootável a partir do cartão de memória
