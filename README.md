@@ -53,24 +53,28 @@ Este repositório fornece um passo a passo detalhado de como instalar o Armbian 
 
 3. **Detecção da Memória NAND**:
    - Uma mensagem de alerta aparecerá informando que a memória do dispositivo é do tipo **NAND**. Pressione **Enter** para continuar.
+     ![Captura de tela 2025-02-22 175226](https://github.com/user-attachments/assets/854c04f6-eedd-4448-892d-1b6a925e026c)
 
 4. **Backup do Sistema Original**:
-   - O Multitool oferecerá opções. Se quiser fazer o backup do sistema original da TV Box, selecione a primeira opção utilizando as setas do teclado e pressione **Enter**.
+   - O Multitool oferecerá um menu de opções. Se quiser fazer o backup do sistema original da TV Box, selecione a primeira opção utilizando as setas do teclado e pressione **Enter**.
+    ![Captura de tela 2025-02-22 111118](https://github.com/user-attachments/assets/0b1e80a6-3f2f-405a-a0eb-e988a19013bd)
+
    - Dê um nome para o arquivo de backup e aguarde a conclusão. Após finalizar, pressione **Enter** novamente.
+   - Esse processo ira demorar um pouco. Aguarde o processo finalizar.
 
 5. **Desligamento**:
-   - Selecione a opção **Shutdown** e desligue a TV Box.
+   - Após retornar ao menu principal do Multitool, selecione a opção **Shutdown** e desligue a TV Box.
 
 6. **Cópia do Sistema Original**:
    - Retire o cartão de memória da TV Box e coloque-o de volta no computador.
-   - Dentro do cartão, abra o disco chamado **MULTITOOL**. Acesse a pasta **baucps** e copie o sistema operacional original para o seu computador.
+   - Dentro do cartão, abra o disco chamado **MULTITOOL**. Acesse a pasta **backups** e copie o sistema operacional original para uma pasta em seu computador.
 
 ---
 
 ### Parte 3: Instalando o Armbian
 
 1. **Download da Imagem do Armbian**:
-   - Faça o download da imagem do Armbian disponível no repositório.
+   - Faça o download da imagem do Armbian disponível no repositório. Você pode baixá-la [aqui](https://drive.google.com/file/d/16G2Ij_zW3bQYgbVVJsmUR-PfZCeUe8Bs/view?usp=drive_link).
 
 2. **Transferindo a Imagem para o Cartão de Memória**:
    - Dentro do disco **MULTITOOL**, acesse a pasta **images** e copie a imagem do Armbian (descompactada) para essa pasta.
